@@ -4,8 +4,7 @@
   "description": "Socket IO Chat app using nodejs",
   "main": "server.js",
   "scripts": {
-    "test": "npm start",
-    "start": "npm start"
+    "test": "npm start"
   },
   "keywords": [
     "node",
